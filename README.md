@@ -8,11 +8,10 @@ Most of my work is done on a private GitLab
 <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/proxmox.svg" alt="Proxmox" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/rocky-linux.svg" alt="Rocky Linux" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/docker-moby.svg" alt="Docker" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/alpine.svg" alt="Alpine Linux" width="45" height="45"/>
+<img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/alpine-linux.svg" alt="Alpine Linux" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/haproxy.svg" alt="HAProxy" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/grafana.svg" alt="Grafana" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/prometheus.svg" alt="Prometheus" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/zabbix.svg" alt="Zabbix" width="45" height="45"/>
 <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/keycloak.svg" alt="KeyCloak" width="45" height="45"/>
 <br>
 <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/postgres.svg" alt="Postgres" width="45" height="45"/>
@@ -42,5 +41,5 @@ Most of my work is done on a private GitLab
   <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/ansible.svg" alt="Ansible" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/zigbee2mqtt.svg" alt="Zigbee2MQTT" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/walkxcode/dashboard-icons/main/svg/terraform.svg" alt="Terraform" width="45" height="45"/>
-  <img src="https://www.datocms-assets.com/58478/1638283616-packer.svg" alt="Packer" width="45" height="45" />
+  <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/refs/heads/main/svg/hashicorp-packer.svg" alt="Packer" width="45" height="45" />
 <div/>
